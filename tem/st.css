@@ -1,0 +1,216 @@
+.inter{
+    height: 400px;
+    width: 1393px;
+    margin-left: 10px;
+    border: 2px solid black;
+    font-size: 20px;
+    margin-top: 2px;
+    padding:50px 0px 50px 50px;
+    background-color: bisque;
+}
+.inter{
+    float: top right;
+}
+#iii{
+    display: flex;
+    padding: 10px 0px 0px 100px;
+    float: right;
+    background-color: beige;
+}
+#hi{
+    display: flex;
+    justify-content:left;
+}
+h1{
+    float: none;
+}
+.kjc{
+    padding-left: 1000px;
+    padding-bottom: 20px;
+    mix-blend-mode: multiply;
+}
+
+#ed{
+    margin-left: 10px;
+    margin-top: 20px;
+    padding:10px 0px 10px 10px;
+    border: 2px solid black;
+    border-radius: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: red;
+}
+a{
+    color: black;
+}
+#hii{
+    top: 80px;
+    right: 100px;
+    border: 2px solid red;
+    display: inline;
+
+}
+#about{
+    justify-content:left;
+    align-items: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    animation-name: har;
+    animation-duration: 3s;
+    animation-iteration-count:1;
+
+
+
+}
+@keyframes har{
+    from{
+        padding:10px 10px 10px 10px;
+    }
+    to{
+      padding: 20px 20px 20px 20px;
+      background-color: aqua;
+      
+    }
+}
+#about{
+    display: block;
+    padding:10px 10px 10px 10px;
+    margin-left: 10px;
+    border:2px solid black;
+    float:none
+
+   
+}
+.kjc{
+
+   padding-left: 1000px;
+   padding-bottom: 500px;
+   padding-top: 20pxpx;
+   padding-right: 20px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 1000px;
+}
+#hr{
+    display: inline;
+}
+.tech{
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 2px solid rgb(9, 7, 7);
+    font-size: 20px;
+    padding:50px 0px 100px 50px;
+    background-color: rgb(182, 98, 98);
+   
+}
+.inter{
+    margin-top: 50px;
+    transition-property: background-color;
+}
+.inter:hover{
+    background-color: rgb(121, 121, 194);
+}
+.tech{
+    mix-blend-mode: multiply;
+}
+#html{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin: 80px 10px 100px 0px;
+}
+#html:hover{
+    height: 220px;
+    width:200px;
+}
+#css{
+    height: 200px;
+    width: 200px;
+    border: 2px solid rgb(160, 16, 16);
+    margin: 80px 10px 100px 0px;
+    animation-name: css  ;
+    animation-duration: 2s;
+    animation-iteration-count: 2;
+
+}
+#css:hover{
+    height: 220px;
+    width:200px;
+}
+
+
+#python{
+    height: 200px;
+    width: 200px;
+    border: 2px solid rgb(160, 16, 16);
+    margin: 80px 10px 100px 0px;
+}
+#python:hover{
+    height: 220px;
+    width:200px;
+    box-shadow: red;
+}
+#c{
+    height: 200px;
+    width: 200px;
+    border: 2px solid rgb(160, 16, 16);
+    margin: 80px 10px 100px 0px;
+}
+#c:hover{
+    height: 220px;
+    width:200px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    border: 2px solid red;
+}
+#tp{
+    float:top;
+}
+#te{
+    height: 350px;
+    width: 600px;
+    font-size: 30px;
+    
+}
+#cer{
+    height: 350px;
+    width: 600px;
+    border: 2px solid black;
+    margin-left: 20px;
+    
+}
+.cert{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    border: 2px solid red;
+    margin-left: 10px;
+    height: 400px;
+    width: 1440px;
+}
+#ed:hover{
+    background-color:#f9c21b
+}
+#haa{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    margin-right: 800px;
+    font-size: 30px;
+
+}
+.contain{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#haa:hover{
+    color: rgb(80, 80, 237);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#about:hover{
+    background-color: rgb(74, 74, 156);
+}
